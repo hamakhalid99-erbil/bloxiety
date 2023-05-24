@@ -1,0 +1,32 @@
+
+.navbar-wrapper {
+    background-color: "#2A303C" !important;
+}
+.nav-title {
+}
+
+.nav-title .xiety {
+    color: white;
+}
+
+.nav-title .block {
+    color: white;
+}
+.nav-title .block {
+    background-color: #661AE6;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.user-info-wrapper {
+    color: white;
+    text-transform: uppercase;
+    padding: 2px;
+    font-weight: bold;
+}
+.user-info-wrapper span {
+    color: gray !important;
+    text-decoration: none !important;
+}
+

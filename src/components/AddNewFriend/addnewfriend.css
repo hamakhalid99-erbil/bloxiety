@@ -1,0 +1,9 @@
+.addNewFriendButton {
+    background-color: #661AE6 !important;
+    border: none !important;
+
+}
+.addNewFriendButton:hover  {
+    background-color: #651ae64d !important;
+    transition: .7s;
+}
